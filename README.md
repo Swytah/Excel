@@ -1,4 +1,3 @@
-# Excel for Data Analysis
 
 # Excel Data Analysis Project
 
